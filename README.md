@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange)](https://docs.python.org/3/library/tkinter.html)
-
+![Тут была картинка](trainer.png)
 
 ---
 
@@ -281,7 +281,7 @@ MC/DC требует, чтобы для каждого входа была па�
 
 Windows:
 
-    где python
+    where python
 
 macOS/Linux:
 
